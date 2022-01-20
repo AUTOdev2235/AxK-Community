@@ -1,9 +1,4 @@
-if not game:IsLoaded() then
-	print("Wait For Game Loading")
-	repeat
-		wait()
-	until game:IsLoaded()
-end
+
 
 if game:GetService("CoreGui"):FindFirstChild("MOKURO Gui") then
     game:GetService("CoreGui"):FindFirstChild("MOKURO Gui"):Destroy()
