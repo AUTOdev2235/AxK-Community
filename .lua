@@ -1,10 +1,4 @@
---[[
-Free script Build A Boat For Treasure 
-By AxK exploit Community
 
-Dis:https://discord.gg/rjw9tK6Qjq
-Youtube:https://www.youtube.com/channel/UCcCnM2qO96h42_qA6ER2JyQ
-]]
 
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
