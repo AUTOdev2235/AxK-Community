@@ -6,6 +6,11 @@ Dis:https://discord.gg/rjw9tK6Qjq
 Youtube:https://www.youtube.com/channel/UCcCnM2qO96h42_qA6ER2JyQ
 ]]
 
+if  not game.PlaceId == 537413528 then
+game.Players.LocalPlayer:kick("This game not subport")
+
+end
+
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
